@@ -1,0 +1,74 @@
+Name,Gender,House,Debut Season,Death Season,Role/Post,Place
+Eddard Stark,Male,Stark,1,1,Lord,Winterfell
+Catelyn Stark,Female,Tully,1,6,Lady,Winterfell
+Robb Stark,Male,Stark,1,3,King,Winterfell
+Sansa Stark,Female,Stark,1,-,Lady,Winterfell
+Arya Stark,Female,Stark,1,-,Assassin,Winterfell
+Bran Stark,Male,Stark,1,-,Lord,Winterfell
+Rickon Stark,Male,Stark,1,6,Lord,Winterfell
+Jon Snow,Male,"Bastard, None",1,8,"Night's Watch, Ranger",The Wall
+Tywin Lannister,Male,Lannister,1,5,Lord,Casterly Rock
+Jaime Lannister,Male,Lannister,1,8,Knight,King's Landing
+Cersei Lannister,Female,Lannister,1,8,Queen,King's Landing
+Tyrion Lannister,Male,Lannister,1,-,Hand,King's Landing
+Joffrey Baratheon,Male,"Baratheon, Lannister",1,4,King,King's Landing
+Myrcella Baratheon,Female,"Baratheon, Lannister",1,6,Princess,King's Landing
+Tommen Baratheon,Male,"Baratheon, Lannister",1,6,King,King's Landing
+Daenerys Targaryen,Female,Targaryen,1,8,Queen,Essos
+Viserys Targaryen,Male,Targaryen,1,1,Prince,Essos
+Balon Greyjoy,Male,Greyjoy,2,6,Lord,Pyke
+Theon Greyjoy,Male,Greyjoy,1,8,Lord,Pyke
+Yara Greyjoy,Female,Greyjoy,2,-,Warrior,Pyke
+Oberyn Martell,Male,Martell,4,4,Prince,Dorne
+Doran Martell,Male,Martell,5,-,Lord,Dorne
+Edmure Tully,Male,Tully,2,6,Lord,Riverrun
+Lysa Arryn,Female,Arryn,1,6,Lady,The Eyrie
+Mace Tyrell,Male,Tyrell,2,-,Lord,Highgarden
+Olenna Tyrell,Female,Tyrell,2,7,Lady,Highgarden
+Margaery Tyrell,Female,Tyrell,2,6,Queen,King's Landing
+Loras Tyrell,Male,Tyrell,2,6,Knight,Highgarden
+Petyr Baelish,Male,None,1,7,Manipulator,King's Landing
+Varys,Male,None,1,8,Spymaster,King's Landing
+Brienne of Tarth,Female,None,2,-,Knight,Westeros
+Sandor Clegane,Male,None,1,8,Hound,Westeros
+Gregor Clegane,Male,None,1,7,Hound,Westeros
+Jorah Mormont,Male,None,1,8,Knight,Essos
+Davos Seaworth,Male,None,2,-,Smuggler,Westeros
+Melisandre,Female,None,2,6,Priestess,Westeros
+Gendry,Male,None,2,-,Blacksmith,Westeros
+Samwell Tarly,Male,None,2,-,Maester,The Wall
+Tormund Giantsbane,Male,None,2,-,Leader,The North
+Ramsay Bolton,Male,Bolton,2,6,Lord,Winterfell
+Roose Bolton,Male,Bolton,2,6,Lord,Winterfell
+Hodor,Male,None,1,6,Stableboy,Winterfell
+Missandei,Female,None,3,8,Translator,Essos
+Grey Worm,Male,None,3,8,Commander,Essos
+Daario Naharis,Male,None,3,8,Commander,Essos
+Nymeria (Direwolf),Female,Stark,1,-,Direwolf,Winterfell
+Summer (Direwolf),Male,Stark,1,-,Direwolf,Winterfell
+Ghost (Direwolf),Male,Stark,1,-,Direwolf,Winterfell
+Lady (Direwolf),Female,Stark,1,1,Direwolf,Winterfell
+The Night King,Male,None,6,8,Leader,The North
+Selyse Baratheon,Female,Baratheon,2,6,Lady,Dragonstone
+Shireen Baratheon,Female,Baratheon,2,5,Princess,Dragonstone
+Stannis Baratheon,Male,Baratheon,2,5,King,Dragonstone
+Tansy,Female,None,1,-,Prostitute,Winterfell
+Lancel Lannister,Male,Lannister,1,7,Knight,King's Landing
+Qyburn,Male,None,2,8,Scientist,King's Landing
+Meryn Trant,Male,None,2,6,Knight,King's Landing
+Khal Drogo,Male,None,1,1,Khal,Essos
+Podrick Payne,Male,None,2,-,Squire,Westeros
+Beric Dondarrion,Male,None,2,6,Leader,Westeros
+Thoros of Myr,Male,None,2,-,Priest,Westeros
+Asha Greyjoy,Female,Greyjoy,2,-,Warrior,Pyke
+Edric Storm,Male,Baratheon,-,-,Bastard,Dragonstone
+Jeyne Westerling,Female,None,2,3,Lady,Westeros
+Mance Rayder,Male,None,2,5,Leader,Beyond the Wall
+Meera Reed,Female,Reed,3,-,Hunter,The North
+Jojen Reed,Male,Reed,3,4,Seer,The North
+Aegon Targaryen,Male,Targaryen,-,-,King,Westeros
+Nymeria Sand,Female,Martell,6,-,Sand Snake,Dorne
+Ellaria Sand,Female,Martell,4,7,Lover,Dorne
+Ramsay Snow,Male,Bolton,-,-,Lord,Winterfell
+Tansy,Female,None,1,-,Prostitute,Winterfell
+Septa Unella,Female,None,5,6,Septa,King's Landing
