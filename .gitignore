@@ -1,1 +1,32 @@
+#virtualenv
 .venv
+
+# Django migrations
+*/migrations/*
+
+# SQLite database
+*.sqlite3
+
+# Media and static files
+/media/
+staticfiles/
+
+# Local settings
+local_settings.py
+settings_local.py
+
+# Database files
+db.sqlite3
+
+# Log files
+*.log
+
+#IDE
+.vscode/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
